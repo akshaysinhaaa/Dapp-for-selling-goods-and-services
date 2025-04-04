@@ -74,7 +74,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((module) => {
 
 "use strict";
-module.exports = /*#__PURE__*/JSON.parse('{"marketplaceAddress":"0x0B306BF915C4d645ff596e518fAf3F9669b97016","tokenAddress":"0x9A676e781A523b5d0C0e43731313A708CB607508","networkId":31337}');
+module.exports = /*#__PURE__*/JSON.parse('{"marketplaceAddress":"0x2e974b4685802DBE01D01E470EF82fDCEE8380c0","tokenAddress":"0x94a094E28DFc18f67C05228e57F8249fB90fB086","networkId":11155111}');
 
 /***/ }),
 
