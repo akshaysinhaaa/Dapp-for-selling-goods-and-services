@@ -48,7 +48,7 @@ npm run node
 
 2. Deploy the contracts to the local node (in a new terminal):
 ```bash
-npm run deploy
+npx hardhat run scripts/deploy-sepolia.js --network sepolia
 ```
 
 3. Copy the deployed contract addresses (from the terminal output)
